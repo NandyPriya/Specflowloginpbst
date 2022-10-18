@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPST", "LoginPST\LoginPST.csproj", "{C7284B5A-F0B9-4FF9-A5FC-822728F604D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logout", "Logout\Logout.csproj", "{3318C7A1-2FC2-4576-B33A-972FCA96CC40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7284B5A-F0B9-4FF9-A5FC-822728F604D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7284B5A-F0B9-4FF9-A5FC-822728F604D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7284B5A-F0B9-4FF9-A5FC-822728F604D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7284B5A-F0B9-4FF9-A5FC-822728F604D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3318C7A1-2FC2-4576-B33A-972FCA96CC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3318C7A1-2FC2-4576-B33A-972FCA96CC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3318C7A1-2FC2-4576-B33A-972FCA96CC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3318C7A1-2FC2-4576-B33A-972FCA96CC40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36025BAC-994A-4304-849E-5B084AC30407}
+	EndGlobalSection
+EndGlobal
